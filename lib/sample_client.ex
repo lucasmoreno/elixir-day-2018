@@ -1,5 +1,5 @@
 defmodule SampleClient do
-  @host "localhost:4000"
+  @host "http://canvas.elixirday.com"
   @token "marcelo.koga"
 
   ### API ###
