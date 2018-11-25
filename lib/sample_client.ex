@@ -1,6 +1,6 @@
 defmodule SampleClient do
   @host "http://canvas.elixirday.com"
-  @token "COLOQUE_SEU_TOKEN"
+  @token "lucas.moreno"
 
   # POST
   # /api/move
